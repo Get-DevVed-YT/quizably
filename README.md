@@ -1,9 +1,9 @@
-# Quizably
+# Quizzably
 Quizably is a package for building quiz or question interfaces fast. It is super simple to use and you can adapt it to most apps.
 
 Here's an example
 ```javascript
-const quizably = require("quizably");
+const quizably = require("quizzably");
 
 var questions = [
   {
@@ -18,7 +18,7 @@ var questions = [
   }
 ]
 
-quizably(questions, 2, "5");
+quizzably(questions, 2, "5");
 ```
 The quizably function takes in 3 parameters.
 

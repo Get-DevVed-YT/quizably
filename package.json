@@ -1,16 +1,22 @@
 {
-  "name": "quizably-test",
+  "name": "quizzably",
   "version": "1.0.0",
-  "description": "",
+  "description": "A package for making quiz or question interfaces fast",
   "main": "index.js",
-  "dependencies": {
-    "quizably": "^1.0.0"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Ved Rane <getdevved@gmail.com> (https://vedrane.com)",
+  "keywords": [
+    "quiz",
+    "questionaire",
+    "questions",
+    "learning"
+  ],
+  "homepage": "https://npm.im/quizzably",
+  "bugs": {
+  "url" : "https://github.com/Get-DevVed-YT/quizzably/issues",
+  "email" : "getdevved@gmail.com"
+},
+  "license": "MIT"
 }
