@@ -3,7 +3,7 @@ Quizably is a package for building quiz or question interfaces fast. It is super
 
 Here's an example
 ```javascript
-const quizably = require("quizzably");
+const quizzably = require("quizzably");
 
 var questions = [
   {
